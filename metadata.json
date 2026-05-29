@@ -1,0 +1,6 @@
+{
+  "name": "MissionOps AI",
+  "description": "Enterprise-grade intelligent workflow automation that transforms business objectives into executable and auditable missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
